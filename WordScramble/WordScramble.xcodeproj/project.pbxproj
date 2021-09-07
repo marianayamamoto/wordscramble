@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		40293BC026E79DF800715E74 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 40293BBF26E79DF800715E74 /* start.txt */; };
 		4062F85E26E2B3780064677D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4062F85D26E2B3780064677D /* AppDelegate.swift */; };
 		4062F86026E2B3780064677D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4062F85F26E2B3780064677D /* SceneDelegate.swift */; };
 		4062F86226E2B3780064677D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4062F86126E2B3780064677D /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		40293BBF26E79DF800715E74 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 		4062F85A26E2B3770064677D /* WordScramble.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WordScramble.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4062F85D26E2B3780064677D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4062F85F26E2B3780064677D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 		4062F85C26E2B3770064677D /* WordScramble */ = {
 			isa = PBXGroup;
 			children = (
+				40293BBF26E79DF800715E74 /* start.txt */,
 				4062F85D26E2B3780064677D /* AppDelegate.swift */,
 				4062F85F26E2B3780064677D /* SceneDelegate.swift */,
 				4062F86126E2B3780064677D /* ContentView.swift */,
@@ -133,6 +136,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4062F86A26E2B3810064677D /* LaunchScreen.storyboard in Resources */,
+				40293BC026E79DF800715E74 /* start.txt in Resources */,
 				4062F86726E2B3810064677D /* Preview Assets.xcassets in Resources */,
 				4062F86426E2B3810064677D /* Assets.xcassets in Resources */,
 			);
